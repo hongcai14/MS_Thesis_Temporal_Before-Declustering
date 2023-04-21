@@ -1,7 +1,7 @@
 function[b] = b_calc_fun(M)
 %==========================================================================
 %
-%   Computes the maximum likelihood b value (Ogata and Yamashina, 1986)
+%   Computes maximum likelihood b value (Ogata and Yamashina, 1986)
 %
 %   Input:
 %    M := vector of earthquake magnitudes 
